@@ -1,4 +1,4 @@
-# secret_santa
+# secret_santa v1
 
 ## Description
 Ce projet est un script Python pour organiser un tirage au sort Secret Santa. Il permet de générer des paires de manière aléatoire pour un échange de cadeaux au sein d'une équipe ou d'un groupe
